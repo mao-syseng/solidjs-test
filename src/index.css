@@ -1,0 +1,8 @@
+:root {
+  background-color:#c0c0c0;
+}
+
+body {
+  padding: 1rem;
+  display: flex;
+}
